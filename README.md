@@ -4,7 +4,8 @@
 https://www.youtube.com/watch?v=JMCNrFbJeAI&ab_channel=AmeyaSGidh
 
 ## Screenshots
-![aa](https://github.com/ameyagidh/QuestionAnsweringBot/assets/65457905/fe245dc8-2365-4be3-a75c-f40d7980089d)
+![aa](https://github.com/ameyagidh/QuestionAnsweringBot/assets/65457905/53041f0c-1070-4f25-ab33-63c5f66b1c85)
+
 
 ## Overview
 This project develops an advanced LSTM-based Question Answering system using the SQuAD 2.0 dataset. It features a comprehensive approach encompassing data preprocessing, LSTM Seq2Seq model implementation, rigorous evaluation, and an intuitive GUI for user interaction.
